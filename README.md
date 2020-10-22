@@ -7,6 +7,7 @@ Approved on means the version is evaluated and tested on internal T-Sec test ins
 
 |version|approved on|
 |-------|-----------|
+|2.4.131|08-09-2020 |
 |2.4.133|22-10-2020 |
 |2.4.132|25-09-2020 |
 
